@@ -8,8 +8,8 @@
    You can see also <a href="https://github.com/Jinyeob/Today-Manna-Android" target="_blank">Android</a> version.
 </p>
 
-## Download (not yet)
-<a href="https://play.google.com/store/apps/details?id=com.manna.parsing2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg"/></a>
+## Download)
+<a href="<!--"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg"/></a>
 
 
 <!--
@@ -85,6 +85,7 @@ async public void LoginFunc()
 * Xamarin.Plugins.Clipboard (https://www.nuget.org/packages/Xamarin.Plugins.Clipboard/) -> Coppy Text to Clipboard
 -->
 ## 📌 Screenshots
+<!--
 ### Application
 | Main | M'Cheine | Info |
 |:--------:|:--------:|:--------:|
@@ -99,3 +100,4 @@ async public void LoginFunc()
 | 홈 페이지 | 범위 | 세부 페이지 |
 |:--------:|:--------:|:--------:|
 | <img src="https://user-images.githubusercontent.com/37360089/92693284-5f646580-f380-11ea-899a-d29efc2d276a.png"/> | <img src="https://user-images.githubusercontent.com/37360089/92693166-3348e480-f380-11ea-9dd2-b0eade042aeb.png"/> | <img src="https://user-images.githubusercontent.com/37360089/92692980-ebc25880-f37f-11ea-8013-6cc41019d715.png"/> |
+-->
